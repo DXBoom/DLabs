@@ -128,5 +128,3 @@ def wave():
 		sleep(0.01)
 
 wave()
-
-
