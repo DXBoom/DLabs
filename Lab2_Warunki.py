@@ -106,11 +106,3 @@ else:
     letterLower = letter[0]
 
 print(letterLower)
-
-
-
-
-
-
-
-
